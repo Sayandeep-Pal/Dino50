@@ -4,7 +4,8 @@
 Welcome to the DINO50! This simple yet addictive web application game allows players to control a dinosaur that must jump over obstacles to avoid collisions.
 
 ## Video Demo
-* #### Video URL:"https://youtu.be/adKm1TNWHRg?si=mZr-qC9ChZOrcAFN"
+* #### Video URL:  https://youtu.be/adKm1TNWHRg?si=mZr-qC9ChZOrcAFN
+* #### Game URL:  https://play-dino-game.netlify.app
 
 ## Table of Contents
 * How to Play
